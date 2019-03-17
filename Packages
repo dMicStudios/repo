@@ -1,5 +1,5 @@
 Package: com.iosgods.boom
-Name: Guns of Boom Cheats
+Name: GunsofBoomCheats
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Guns of Boom iGMM Cheats by absolut1on for iOSGods.com!
@@ -9,6 +9,6 @@ Section: Tweaks
 Homepage: https://iosgods.com
 Version: 5.2.2
 Installed-Size: 3268
-Filename: ./debs/com.iosgods.boom_5.2.2_iphoneos-arm.deb
+Filename: ./debs/com.iosgods.boom.deb
 Depiction: https://dMicStudios.github.io/repo/depictions/GunsOfBoomCheats
 MD5sum: af0af3414c1048c5e12b3e0a4e63c9ce
