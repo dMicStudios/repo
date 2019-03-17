@@ -1,0 +1,14 @@
+Package: always com.yourreponame.packagename
+Name: Package name
+Version: Version numer
+Architecture: iphoneos-arm
+Description: Description
+Homepage: Your homepage
+Maintainer: your nickname <your@email.com>
+Author: your nickname
+Sponsor: Your sponsor's name <sponsor's webpage>
+Section: The cydia's section that it fits
+Filename: ./folder-that-you-will-create-for-the-deb-files/com.yourreponame.packagename.deb
+Size: use "Get file size.cmd" to get it
+MD5sum: use "Generate MD5 checksum.cmd" to get it 
+WARNING: Don’t forget to leave an empty blank space at the end 
