@@ -26,3 +26,18 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.iosgods.boom
+Name: Guns of Boom Cheats
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Guns of Boom iGMM Cheats by absolut1on for iOSGods.com!
+Maintainer: iOSGods.com
+Author: absolut1on
+Section: Tweaks
+Homepage: https://iosgods.com
+Version: 5.2.2
+Installed-Size: 3268
+Filename: ./debs/com.iosgods.boom_5.2.2_iphoneos-arm.deb
+Depiction: https://dMicStudios.github.io/repo/depictions/callproxi
+Size: 1,028,578
+MD5sum: af0af3414c1048c5e12b3e0a4e63c9ce
