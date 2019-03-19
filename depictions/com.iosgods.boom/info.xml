@@ -1,0 +1,29 @@
+<package>
+	<id>com.iosgods.boom</id>
+	<name>GunsOfBoomCheats</name>
+	<version>5.2.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>dMic Test</description>
+	</descriptionlist>
+	<changelog>
+		<changes>
+			<version>5.2.2</version>
+			<change>Initial Release</change>
+		</changes>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
